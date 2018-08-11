@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
  * Created by xzinoviou
  *
  */
-public class Tester2 {
+public class PalindromeString {
 
     public static void main(String[] args){
 
